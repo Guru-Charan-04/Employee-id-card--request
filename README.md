@@ -167,7 +167,7 @@ This project is provided as-is for corporate workplace administration and operat
 
 ## Authors & Contributors
 
-**Project Lead**: Akhilesh
+**Project Lead**: GURU CHARAN
 
 ## Acknowledgments
 
@@ -177,4 +177,5 @@ This project represents a comprehensive implementation of ServiceNow best practi
 
 **Last Updated**: June 2026  
 **Version**: 1.0  
-**Repository**: [Employee-ID-Card-Request-System-in-ServiceNow]https://github.com/Guru-Charan-04/Employee-id-card--request.git
+**Repository**: [Employee-ID-Card-Request-System-in-ServiceNow]
+https://github.com/Guru-Charan-04/Employee-id-card--request.git
