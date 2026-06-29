@@ -89,25 +89,6 @@ Demo scripts, validation cases, and presentation materials showcasing end-to-end
 - Approval SLA compliance tracking
 - Average card processing and issuance time analytics
 
-## Architecture
-┌─────────────────────────────────────────────┐
-│       ServiceNow Platform                   │
-├─────────────────────────────────────────────┤
-│  Request Generation & Intake Layer          │
-│  ├─ Service Catalog Item                    │
-│  ├─ Variable Set UI & Validation            │
-│  └─ Default Value Scripts                   │
-├─────────────────────────────────────────────┤
-│  Workflow & Governance Layer                │
-│  ├─ Flow Designer Engine                    │
-│  ├─ Dynamic Manager Approval Logic          │
-│  └─ Email Notification Service              │
-├─────────────────────────────────────────────┤
-│  Fulfillment & Tracking Layer               │
-│  ├─ Catalog Task [sc_task] Generation       │
-│  ├─ Admin Team Assignment Routing           │
-│  └─ RITM State Management                   │
-└─────────────────────────────────────────────┘
 ## Configuration
 
 ### Key Configuration Areas
